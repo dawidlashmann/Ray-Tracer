@@ -20,14 +20,15 @@ The reason I'm willing to continue this project is my extreme iterest in this to
 It has allowed me to connect my two passions - programming and 3D graphics (i.e. Blender3D)
 ## Using the code 
 * To change the parameters of a render, you have to look at the beggining of the `main` function
-* The parameters not only concern the final image properties (i.e. resolution, sampling, etc.), but also the camera's (i.e. aperture, focus, etc.)
+* The parameters not only concern the final image properties (i.e. `resolution`, `sampling`, etc.), but also the camera's (i.e. `aperture`, `focus`, etc.)
 * To render it, you have to compile all the files first, and then run the output file
 * The `main.cpp` file has most of the needed comments, although rest of the files are without them, so reading these files might be rather challenging
 * If the code is not using the desired number of avaiable threads, I advise to check the `.config` files first
 
 
 ## Example Render
-The slight grainy feeling is due small number of sampling and depth I choose, to reduce rendering duration.
+The slight grainy feeling is due small number of `sampling` and `depth` I choose, to reduce rendering duration.
+Please not that some `spheres` are moving, thus the motion blur.
 ![Final_img](https://user-images.githubusercontent.com/115370220/232602650-bc3929de-74b2-4e0b-9238-18294c7ad55c.jpg)
 
 If you used my code and found any bugs, please let me know any way possible!
