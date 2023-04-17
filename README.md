@@ -25,7 +25,7 @@ It has allowed me to connect my two passions - programming and 3D graphics (i.e.
 * If the code is not using the desired number of avaiable threads, I advise to check the `.config` files first
 
 ## Example Render
-The grainy feeling is due small number of sampling and depth I choose, to reduce rendering duration.
+The slight grainy feeling is due small number of sampling and depth I choose, to reduce rendering duration.
 ![Final_img](https://user-images.githubusercontent.com/115370220/232602650-bc3929de-74b2-4e0b-9238-18294c7ad55c.jpg)
 
 If you used my code and found any bugs, please let me know any way possible!
