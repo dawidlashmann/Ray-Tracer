@@ -15,7 +15,7 @@ Starting this project I planned on bettering myself in c++.
 
 After finishing it I can say that I have not only achieved that, but also I gained a lot of knowledge about physics, optics and photographic theory.
 
-The reason I want to continue this project is beacuse this topic is extremely iteresting to me and I am sure it will teach me much more things.
+The reason I'm willing to continue this project is my extreme iterest in this topic and I am sure it will teach me much more.
 
 It has allowed me to connect my two passions - programming and 3D graphics (i.e. Blender3D)
 ## Using the code 
